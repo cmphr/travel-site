@@ -27,6 +27,7 @@ nbproject
 .komodotools
 _notes
 dwsync.xml
+.vscode/
 
 # app specific
 app/temp/
